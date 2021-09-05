@@ -15,3 +15,14 @@
 .wholepage {
     background-color: mistyrose;
 }
+
+/* body{
+    background-color: rgb(56, 56, 110);
+    background-image: url(calture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+.img {
+    float: left;
+}
