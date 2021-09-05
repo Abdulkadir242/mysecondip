@@ -1,7 +1,18 @@
+html{
+    height: 100%;
+}
+
 .ip2{
     margin-top: 6%;
 }
 
+body{
+    background-color: rgba(56, 56, 110, 0.384);
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .heading {
     text-align: center;
     color: rgb(44, 209, 154);
@@ -13,16 +24,19 @@
 }
 
 .wholepage {
-    background-color: mistyrose;
+    background-color: rgba(255, 228, 225, 0.123);
 }
 
-/* body{
-    background-color: rgb(56, 56, 110);
-    background-image: url(calture.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-} */
-.img {
-    float: left;
+
+h2{
+    text-align: center;
+}
+
+form {
+    text-align: left;
+    border-radius: 10px;
+   
+    padding: 20px;
+    width: 80%;
+    margin-left: 25%;
 }
