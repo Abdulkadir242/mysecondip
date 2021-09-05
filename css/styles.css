@@ -1,0 +1,15 @@
+.ip2{
+    margin-top: 6%;
+}
+.heading {
+    text-align: center;
+    color: rgb(44, 209, 154);
+    font-style: oblique;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 70px;
+}
+.wholepage {
+    background-color: mistyrose;
+}
